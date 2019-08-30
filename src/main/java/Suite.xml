@@ -1,0 +1,9 @@
+<suite name="My test suite">
+    <test name="My first test">
+        <classes>
+            <class name="AnnotationTest">
+
+            </class>
+        </classes>
+    </test>
+</suite>
