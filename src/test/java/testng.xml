@@ -1,4 +1,5 @@
 <suite name="My test suite">
+    <parameter name="browser" value="chrome"/>
     <test name="My first test">
         <classes>
             <class name="AnnotationTest">
