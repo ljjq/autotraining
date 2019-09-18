@@ -1,14 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-<<<<<<< HEAD
-    <list default="true" id="c13d2608-8b69-44c2-97d2-5f5c5c2bf6b9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/automation/training/pages/MyDriver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/automation/training/pages/MyDriver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/automation/training/pages/MyDriver.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/automation/training/pages/MyDriver.class" afterDir="false" />
-    </list>
-=======
     <list default="true" id="05a7d8df-da33-4ad8-a536-16b7b85a29b6" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
@@ -29,7 +21,6 @@
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
->>>>>>> a04a911663d4634483c45116c5a2ae0d0489b5d0
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -145,17 +136,6 @@
       </list>
     </option>
   </component>
-<<<<<<< HEAD
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="ProjectId" id="1OlDPpCsJTXRtXvQdob6uYxlHPb" />
-  <component name="PropertiesComponent">
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-=======
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -255,7 +235,6 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
->>>>>>> a04a911663d4634483c45116c5a2ae0d0489b5d0
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -274,9 +253,6 @@
       </list>
     </option>
   </component>
-<<<<<<< HEAD
-  <component name="RunManager" selected="TestNG.C:/Users/user/IdeaProjects/autotraining/src/main/java/Suite.xml">
-=======
   <component name="RunManager" selected="TestNG.C:/Users/leidy.jaramillo/IdeaProjects/autotraining/src/test/java/testng.xml">
     <configuration name="All in autotraining" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="autotraining" />
@@ -286,7 +262,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
->>>>>>> a04a911663d4634483c45116c5a2ae0d0489b5d0
     <configuration name="AnnotationTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="autotraining" />
       <option name="PACKAGE_NAME" value="" />
@@ -298,23 +273,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-<<<<<<< HEAD
-    <configuration name="AnnotationTest.testConcat" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="autotraining" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="AnnotationTest" />
-      <option name="METHOD_NAME" value="testConcat" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C:/Users/user/IdeaProjects/autotraining/src/main/java/Suite.xml" type="TestNG" temporary="true" nameIsGenerated="true">
-=======
     <configuration name="C:/Users/leidy.jaramillo/IdeaProjects/autotraining/src/main/java/Suite.xml" type="TestNG" temporary="true" nameIsGenerated="true">
->>>>>>> a04a911663d4634483c45116c5a2ae0d0489b5d0
       <module name="autotraining" />
       <option name="SUITE_NAME" value="$PROJECT_DIR$/src/main/java/Suite.xml" />
       <option name="TEST_OBJECT" value="SUITE" />
@@ -354,16 +313,9 @@
     </configuration>
     <recent_temporary>
       <list>
-<<<<<<< HEAD
-        <item itemvalue="TestNG.C:/Users/user/IdeaProjects/autotraining/src/main/java/Suite.xml" />
-        <item itemvalue="TestNG.WikiTest" />
-        <item itemvalue="TestNG.WikiTest.testWikiSearch" />
-        <item itemvalue="TestNG.AnnotationTest.testConcat" />
-=======
         <item itemvalue="TestNG.C:/Users/leidy.jaramillo/IdeaProjects/autotraining/src/test/java/testng.xml" />
         <item itemvalue="TestNG.WikiTest.testWikiSearch" />
         <item itemvalue="TestNG.C:/Users/leidy.jaramillo/IdeaProjects/autotraining/src/main/java/Suite.xml" />
->>>>>>> a04a911663d4634483c45116c5a2ae0d0489b5d0
         <item itemvalue="TestNG.AnnotationTest" />
         <item itemvalue="JUnit.All in autotraining" />
       </list>
@@ -382,18 +334,6 @@
     </task>
     <servers />
   </component>
-<<<<<<< HEAD
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
-=======
   <component name="TestHistory">
     <history-entry file="C__Users_leidy_jaramillo_IdeaProjects_autotraining_src_test_java_testng_xml - 2019.09.11 at 16h 32m 41s.xml">
       <configuration name="C:/Users/leidy.jaramillo/IdeaProjects/autotraining/src/test/java/testng.xml" configurationId="TestNG" />
@@ -560,6 +500,5 @@
         </settings>
       </state>
     </states>
->>>>>>> a04a911663d4634483c45116c5a2ae0d0489b5d0
   </component>
 </project>
