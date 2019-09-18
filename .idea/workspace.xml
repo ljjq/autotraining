@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c13d2608-8b69-44c2-97d2-5f5c5c2bf6b9" name="Default Changelist" comment="" />
+    <list default="true" id="c13d2608-8b69-44c2-97d2-5f5c5c2bf6b9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/automation/training/pages/MyDriver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/automation/training/pages/MyDriver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/automation/training/pages/MyDriver.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/automation/training/pages/MyDriver.class" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,8 +20,12 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1OlDPpCsJTXRtXvQdob6uYxlHPb" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -41,12 +50,24 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.WikiTest">
+  <component name="RunManager" selected="TestNG.C:/Users/user/IdeaProjects/autotraining/src/main/java/Suite.xml">
     <configuration name="AnnotationTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="autotraining" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="AnnotationTest" />
       <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AnnotationTest.testConcat" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="autotraining" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="AnnotationTest" />
+      <option name="METHOD_NAME" value="testConcat" />
+      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
@@ -100,9 +121,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.WikiTest" />
         <item itemvalue="TestNG.C:/Users/user/IdeaProjects/autotraining/src/main/java/Suite.xml" />
+        <item itemvalue="TestNG.WikiTest" />
         <item itemvalue="TestNG.WikiTest.testWikiSearch" />
+        <item itemvalue="TestNG.AnnotationTest.testConcat" />
         <item itemvalue="TestNG.AnnotationTest" />
       </list>
     </recent_temporary>
@@ -119,5 +141,16 @@
       <updated>1564543267554</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
