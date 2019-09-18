@@ -1,7 +1,8 @@
 <suite name="My test suite">
+    <parameter name="browser" value="chrome"/>
     <test name="My first test">
         <classes>
-            <class name="AnnotationTest">
+            <class name="com.automation.training.tests.WikiTest">
 
             </class>
         </classes>

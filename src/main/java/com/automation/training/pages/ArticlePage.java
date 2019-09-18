@@ -10,7 +10,7 @@ public class ArticlePage extends BasePage {
         super(pDriver);
     }
 
-    @FindBy(id="firstheading")
+    @FindBy(id="firstHeading")
     private WebElement pageTitle;
 
     @FindBy(linkText="Privacy Policy")

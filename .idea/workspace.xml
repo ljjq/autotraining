@@ -1,25 +1,151 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="c13d2608-8b69-44c2-97d2-5f5c5c2bf6b9" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/automation/training/pages/MyDriver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/automation/training/pages/MyDriver.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/automation/training/pages/MyDriver.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/automation/training/pages/MyDriver.class" afterDir="false" />
     </list>
+=======
+    <list default="true" id="05a7d8df-da33-4ad8-a536-16b7b85a29b6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotraining.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Suite.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testng.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/automation/training/pages/ArticlePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/automation/training/pages/ArticlePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/automation/training/pages/MyDriver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/automation/training/pages/MyDriver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/automation/training/pages/WikiHomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/automation/training/pages/WikiHomePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/automation/training/tests/BaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/automation/training/tests/BaseTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/automation/training/tests/WikiTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/automation/training/tests/WikiTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/automation/training/pages/ArticlePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/automation/training/pages/ArticlePage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/automation/training/pages/MyDriver.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/automation/training/pages/MyDriver.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/automation/training/pages/WikiHomePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/automation/training/pages/WikiHomePage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/automation/training/tests/BaseTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/automation/training/tests/BaseTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/automation/training/tests/WikiTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/automation/training/tests/WikiTest.class" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+>>>>>>> a04a911663d4634483c45116c5a2ae0d0489b5d0
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/automation/training/pages/WikiHomePage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" column="29" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="55" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/automation/training/tests/BaseTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-46">
+              <caret line="11" column="37" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/automation/training/tests/WikiTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="183">
+              <caret line="12" column="57" selection-start-line="12" selection-start-column="57" selection-end-line="12" selection-end-column="57" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/automation/training/pages/ArticlePage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/automation/training/pages/BasePage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="16" column="32" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/testng.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/automation/training/pages/MyDriver.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="98">
+              <caret line="19" column="29" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#466#467#0" expanded="true" />
+                <element signature="e#503#504#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>ChromeDriver</find>
+      <find>new</find>
+      <find>search-form\&quot;]/fieldset/bu</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
       <list>
-        <option value="Class" />
+        <option value="$PROJECT_DIR$/src/main/java/AnnotationTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/automation/training/pages/WikiHomePage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Suite.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/testng.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/com/automation/training/tests/BaseTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/automation/training/pages/MyDriver.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/automation/training/pages/ArticlePage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/automation/training/tests/WikiTest.java" />
       </list>
     </option>
   </component>
+<<<<<<< HEAD
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -29,13 +155,111 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+=======
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="jdkForImporter" value="#JAVA_HOME" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="autotraining" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="autotraining" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="15" />
+    <option name="y" value="30" />
+    <option name="width" value="1890" />
+    <option name="height" value="960" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="autotraining" type="b2602c69:ProjectViewProjectNode" />
+              <item name="autotraining" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="autotraining" type="b2602c69:ProjectViewProjectNode" />
+              <item name="autotraining" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="autotraining" type="b2602c69:ProjectViewProjectNode" />
+              <item name="autotraining" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="autotraining" type="b2602c69:ProjectViewProjectNode" />
+              <item name="autotraining" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="autotraining" type="b2602c69:ProjectViewProjectNode" />
+              <item name="autotraining" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="autotraining" type="b2602c69:ProjectViewProjectNode" />
+              <item name="autotraining" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="autotraining" type="b2602c69:ProjectViewProjectNode" />
+              <item name="autotraining" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="autotraining" type="b2602c69:ProjectViewProjectNode" />
+              <item name="autotraining" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+>>>>>>> a04a911663d4634483c45116c5a2ae0d0489b5d0
   </component>
   <component name="RecentsManager">
-    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
-      <recent name="" />
-    </key>
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="com.automation.training.tests" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\leidy.jaramillo\IdeaProjects\autotraining\src\test\java" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -50,7 +274,19 @@
       </list>
     </option>
   </component>
+<<<<<<< HEAD
   <component name="RunManager" selected="TestNG.C:/Users/user/IdeaProjects/autotraining/src/main/java/Suite.xml">
+=======
+  <component name="RunManager" selected="TestNG.C:/Users/leidy.jaramillo/IdeaProjects/autotraining/src/test/java/testng.xml">
+    <configuration name="All in autotraining" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="autotraining" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+>>>>>>> a04a911663d4634483c45116c5a2ae0d0489b5d0
     <configuration name="AnnotationTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="autotraining" />
       <option name="PACKAGE_NAME" value="" />
@@ -62,6 +298,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< HEAD
     <configuration name="AnnotationTest.testConcat" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="autotraining" />
       <option name="PACKAGE_NAME" value="" />
@@ -75,6 +312,9 @@
       </method>
     </configuration>
     <configuration name="C:/Users/user/IdeaProjects/autotraining/src/main/java/Suite.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+=======
+    <configuration name="C:/Users/leidy.jaramillo/IdeaProjects/autotraining/src/main/java/Suite.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+>>>>>>> a04a911663d4634483c45116c5a2ae0d0489b5d0
       <module name="autotraining" />
       <option name="SUITE_NAME" value="$PROJECT_DIR$/src/main/java/Suite.xml" />
       <option name="TEST_OBJECT" value="SUITE" />
@@ -84,17 +324,10 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WikiTest" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="C:/Users/leidy.jaramillo/IdeaProjects/autotraining/src/test/java/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="autotraining" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.automation.training.tests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.automation.training.tests" />
-      <option name="MAIN_CLASS_NAME" value="com.automation.training.tests.WikiTest" />
-      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/java/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
       <properties />
       <listeners />
       <method v="2">
@@ -121,11 +354,18 @@
     </configuration>
     <recent_temporary>
       <list>
+<<<<<<< HEAD
         <item itemvalue="TestNG.C:/Users/user/IdeaProjects/autotraining/src/main/java/Suite.xml" />
         <item itemvalue="TestNG.WikiTest" />
         <item itemvalue="TestNG.WikiTest.testWikiSearch" />
         <item itemvalue="TestNG.AnnotationTest.testConcat" />
+=======
+        <item itemvalue="TestNG.C:/Users/leidy.jaramillo/IdeaProjects/autotraining/src/test/java/testng.xml" />
+        <item itemvalue="TestNG.WikiTest.testWikiSearch" />
+        <item itemvalue="TestNG.C:/Users/leidy.jaramillo/IdeaProjects/autotraining/src/main/java/Suite.xml" />
+>>>>>>> a04a911663d4634483c45116c5a2ae0d0489b5d0
         <item itemvalue="TestNG.AnnotationTest" />
+        <item itemvalue="JUnit.All in autotraining" />
       </list>
     </recent_temporary>
   </component>
@@ -134,14 +374,15 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="c13d2608-8b69-44c2-97d2-5f5c5c2bf6b9" name="Default Changelist" comment="" />
-      <created>1564543267554</created>
+      <changelist id="05a7d8df-da33-4ad8-a536-16b7b85a29b6" name="Default Changelist" comment="" />
+      <created>1568041664259</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1564543267554</updated>
+      <updated>1568041664259</updated>
     </task>
     <servers />
   </component>
+<<<<<<< HEAD
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
@@ -152,5 +393,173 @@
         </entry>
       </map>
     </option>
+=======
+  <component name="TestHistory">
+    <history-entry file="C__Users_leidy_jaramillo_IdeaProjects_autotraining_src_test_java_testng_xml - 2019.09.11 at 16h 32m 41s.xml">
+      <configuration name="C:/Users/leidy.jaramillo/IdeaProjects/autotraining/src/test/java/testng.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_leidy_jaramillo_IdeaProjects_autotraining_src_test_java_testng_xml - 2019.09.11 at 16h 36m 09s.xml">
+      <configuration name="C:/Users/leidy.jaramillo/IdeaProjects/autotraining/src/test/java/testng.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_leidy_jaramillo_IdeaProjects_autotraining_src_test_java_testng_xml - 2019.09.11 at 16h 38m 00s.xml">
+      <configuration name="C:/Users/leidy.jaramillo/IdeaProjects/autotraining/src/test/java/testng.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_leidy_jaramillo_IdeaProjects_autotraining_src_test_java_testng_xml - 2019.09.11 at 16h 41m 23s.xml">
+      <configuration name="C:/Users/leidy.jaramillo/IdeaProjects/autotraining/src/test/java/testng.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_leidy_jaramillo_IdeaProjects_autotraining_src_test_java_testng_xml - 2019.09.11 at 16h 42m 43s.xml">
+      <configuration name="C:/Users/leidy.jaramillo/IdeaProjects/autotraining/src/test/java/testng.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_leidy_jaramillo_IdeaProjects_autotraining_src_test_java_testng_xml - 2019.09.11 at 16h 48m 56s.xml">
+      <configuration name="C:/Users/leidy.jaramillo/IdeaProjects/autotraining/src/test/java/testng.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_leidy_jaramillo_IdeaProjects_autotraining_src_test_java_testng_xml - 2019.09.11 at 16h 52m 03s.xml">
+      <configuration name="C:/Users/leidy.jaramillo/IdeaProjects/autotraining/src/test/java/testng.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_leidy_jaramillo_IdeaProjects_autotraining_src_test_java_testng_xml - 2019.09.11 at 16h 52m 53s.xml">
+      <configuration name="C:/Users/leidy.jaramillo/IdeaProjects/autotraining/src/test/java/testng.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_leidy_jaramillo_IdeaProjects_autotraining_src_test_java_testng_xml - 2019.09.11 at 17h 04m 32s.xml">
+      <configuration name="C:/Users/leidy.jaramillo/IdeaProjects/autotraining/src/test/java/testng.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_leidy_jaramillo_IdeaProjects_autotraining_src_test_java_testng_xml - 2019.09.11 at 17h 05m 28s.xml">
+      <configuration name="C:/Users/leidy.jaramillo/IdeaProjects/autotraining/src/test/java/testng.xml" configurationId="TestNG" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24939272" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" weight="0.3285968" />
+      <window_info anchor="bottom" id="Terminal" weight="0.3285968" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" weight="0.3285968" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.39253998" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3285968" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Maven" visible="true" weight="0.17975709" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/AnnotationTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="25" lean-forward="true" selection-start-column="25" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/testng.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/automation/training/tests/BaseTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-46">
+          <caret line="11" column="37" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/automation/training/pages/WikiHomePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="29" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="55" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/automation/training/tests/WikiTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="12" column="57" selection-start-line="12" selection-start-column="57" selection-end-line="12" selection-end-column="57" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/automation/training/pages/MyDriver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="98">
+          <caret line="19" column="29" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#466#467#0" expanded="true" />
+            <element signature="e#503#504#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/automation/training/pages/BasePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="16" column="32" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/automation/training/pages/ArticlePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+>>>>>>> a04a911663d4634483c45116c5a2ae0d0489b5d0
   </component>
 </project>

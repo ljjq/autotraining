@@ -13,6 +13,7 @@ public class BaseTest {
         @Parameters({"browser"})
 
         public void beforeSuite(String browser){
+            System.out.println("beforesuite");
             myDriver = new MyDriver(browser);
             wikiHome = new WikiHomePage(myDriver.getDriver());
         }
